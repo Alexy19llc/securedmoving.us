@@ -14,6 +14,9 @@ export default defineNuxtConfig({
   build: {
     transpile: ["@heroicons/vue", "@tailwindcss/typography"],
   },
+  // dir: [
+  //     // '~/components/',
+  // ],
   modules: [
     "@nuxtjs/tailwindcss",
     "@nuxt/content",
@@ -67,7 +70,7 @@ export default defineNuxtConfig({
     include: ["/blog/**"],
   },
   gtag: {
-    id: "G-YTFLYBBB92", //delet this
+    id: "",
   },
   nitro: {
     prerender: {
