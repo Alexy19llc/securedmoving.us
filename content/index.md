@@ -5,8 +5,6 @@ date: 2022-01-19T23:12:32.627Z
 description: Secured Moving Company, LLC is a fort worth moving company, with an outstanding reputation for quality service. Local, long-distance, and storage, we'll go the distance.
 tags: pages
 ---
-::banner-bottom-center
-::
 
 ::features-side-by-side-images
 #headline

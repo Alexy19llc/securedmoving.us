@@ -19,13 +19,14 @@
         >
           <div class="sm:text-center lg:text-left">
             <h1 class="text-4xl tracking-tight font-bold text-secureRed-950 sm:text-5xl sm:tracking-tight md:text-6xl md:tracking-tight">
-              <span class="block xl:inline">Your Professional Mover </span>
-              <span class="block text-secureRed-700 xl:inline">in Fort Worth and Texas.</span>
+              <span class="block xl:inline">Welcome to </span>
+              <span class="block text-secureRed-700 xl:inline">Secured Moving Company</span>
+              <span class="block xl:inline"> of Fort Worth, Your Hassle-Free Move Starts Here!</span>
             </h1>
-            <p class="mt-3 text-base text-gray-900 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+            <!-- <p class="mt-3 text-base text-gray-900 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
               We are a leader in <a href="/service-area/fort-worth">Fort Worth, Texas, with an outstanding reputation</a> for quality service and known as one of the best moving companies around.
-            </p>
-            <div class="mt-5 sm:mt-8 flex-col sm:flex sm:justify-center lg:justify-start md:w-3/5">
+            </p> -->
+            <!-- <div class="mt-5 sm:mt-8 flex-col sm:flex sm:justify-center lg:justify-start md:w-3/5">
               <div class="rounded-md shadow">
                 <a 
                   @click="gtag"
@@ -36,7 +37,7 @@
               </a>
               </div>
               <p class="text-lg md:text-2xl text-center mt-2 font-bold"><a href="tel:(817) 812‑6176">(817) 812‑6176</a></p>
-            </div>
+            </div> -->
           </div>
         </main>
       </div>
