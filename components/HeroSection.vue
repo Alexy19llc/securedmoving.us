@@ -23,21 +23,6 @@
               <span class="block text-secureRed-700 xl:inline">Secured Moving Company</span>
               <span class="block xl:inline"> of Fort Worth, Your Hassle-Free Move Starts Here!</span>
             </h1>
-            <!-- <p class="mt-3 text-base text-gray-900 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-              We are a leader in <a href="/service-area/fort-worth">Fort Worth, Texas, with an outstanding reputation</a> for quality service and known as one of the best moving companies around.
-            </p> -->
-            <!-- <div class="mt-5 sm:mt-8 flex-col sm:flex sm:justify-center lg:justify-start md:w-3/5">
-              <div class="rounded-md shadow">
-                <a 
-                  @click="gtag"
-                  href="/contact-us"
-                  class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-sky-500 hover:bg-sky-400 md:py-4 md:text-lg md:px-10"
-                >
-                  Get a Free Estimate
-              </a>
-              </div>
-              <p class="text-lg md:text-2xl text-center mt-2 font-bold"><a href="tel:(817) 812‑6176">(817) 812‑6176</a></p>
-            </div> -->
           </div>
         </main>
       </div>

@@ -127,7 +127,7 @@ const navigation = [
   { name: "Value Proposition", href: "/service-area/commercial-moving" },
   {
     name: "Services",
-    href: "/frequently-asked-questions-about-moving",
+    href: "/services",
   },
   { name: "Why Choose Us" },
   // { name: "Price Guide", href: "/blog/1" },
