@@ -24,7 +24,7 @@
       <section class="moving-main mb-20 mx-auto w-full">
         <!-- Begin 2 col --><!-- Residential moving -->
         <div
-          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row w-11/12 mx-auto py-11"
+          class="moving-main_two-col max-w-7xl  flex flex-col-reverse md:flex-row mx-auto border"
         >
           <div
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6 mx-auto"
@@ -43,11 +43,11 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-[80%] max-h-[90%]">
+            <div class="main-img-wrap w-full">
               <nuxt-img
                 src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
                 alt="Fort Worth movers moving furniture"
-                class="object-cover w-full rounded-lg"
+                class="object-contain w-full h-full rounded-lg"
                 provider="cloudinary"
               />
             </div>
@@ -56,7 +56,7 @@
         <!-- End 2 col --><!-- Residential moving -->
         <!-- Begin Grid --><!-- com moving -->
         <div
-          class="moving-main_two-col flex flex-col-reverse md:flex-row-reverse md:w-11/12 mx-auto p-6"
+          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row-reverse mx-auto"
         >
           <div
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6"
@@ -74,7 +74,7 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-[80%] max-h-[90%]">
+            <div class="main-img-wrap w-full">
               <nuxt-img
                 src="b44e0c599ae79ab34aa841df1040f395packingservices_2_p_500_cbca849880.webp"
                 alt="Fort Worth moving company and packing services"
@@ -88,7 +88,7 @@
         <!-- Com moving -->
         <!-- Begin 2 col --><!-- Spec moving -->
         <div
-          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row w-11/12 mx-auto py-11"
+          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row mx-auto"
         >
           <div
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6 mx-auto"
@@ -108,7 +108,7 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-[80%]">
+            <div class="main-img-wrap w-full">
               <nuxt-img
                 src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
                 alt="Fort Worth movers moving furniture"
@@ -121,7 +121,7 @@
         <!-- End 2 col --><!-- Spec moving -->
         <!-- Begin Grid --><!-- Stor sol -->
         <div
-          class="moving-main_two-col flex flex-col-reverse md:flex-row-reverse md:w-11/12 mx-auto p-6"
+          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row-reverse mx-auto"
         >
           <div
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6"
@@ -139,7 +139,7 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-[80%] max-h-[90%]">
+            <div class="main-img-wrap w-full">
               <nuxt-img
                 src="b44e0c599ae79ab34aa841df1040f395packingservices_2_p_500_cbca849880.webp"
                 alt="Fort Worth moving company and packing services"
@@ -153,7 +153,7 @@
         <!-- Stor sol -->
         <!-- Begin 2 col --><!-- Cust sol -->
         <div
-          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row w-11/12 mx-auto py-11"
+          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row mx-auto"
         >
           <div
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6 mx-auto"
@@ -171,7 +171,7 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-[80%] max-h-[90%]">
+            <div class="main-img-wrap w-full">
               <nuxt-img
                 src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
                 alt="Fort Worth movers moving furniture"
