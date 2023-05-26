@@ -129,7 +129,7 @@ const navigation = [
     name: "Services",
     href: "/services",
   },
-  { name: "Why Choose Us" },
+  { name: "Why Choose Us", href: "/why-choose-us" },
   // { name: "Price Guide", href: "/blog/1" },
   { name: "Moving Tips and Tricks", href: "/blog/1" },
   // { name: "Get a Quote", href: "/blog/1" },
