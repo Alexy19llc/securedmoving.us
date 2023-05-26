@@ -23,35 +23,42 @@
           </h2>
         </div>
       </section>
-      <div class="choose-two-col max-w-4xl mx-auto border">
-        <dl class="space-y-10 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-8">
-          <div v-for="feature in features" :key="feature.name">
-            <dt>
-              <p class="mt-5 text-xl leading-6 font-medium">
-                {{ feature.name }}
-              </p>
-            </dt>
-            <dd class="mt-2 text-base text-gray-900">
-              {{ feature.description }}
-            </dd>
-          </div>
-        </dl>
-      </div>
-      <!-- End Hero -->
-      <!-- Begin reliability -->
-      <!-- End reliability -->
-      <!-- Begin Profes -->
-      <!-- End Profes -->
-      <!-- Begin Cust -->
-      <!-- End Cust -->
-      <!-- Begin Licensed -->
-      <!-- End Licensed -->
-      <!-- Begin Transparent -->
-      <!-- End Transparent -->
-      <!-- Begin Care -->
-      <!-- End Care -->
-      <!-- Begin Positive -->
-      <!-- End Positive -->
+      <section class="choose-main w-full mx-auto py-11 bg-orange-50">
+        <div class="choose-two-col max-w-7xl mx-auto px-8">
+          <dl class="space-y-10 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-8">
+            <div v-for="feature in features" :key="feature.name">
+              <dt>
+                <p class="mt-5 text-xl leading-6 font-medium">
+                  {{ feature.name }}
+                </p>
+              </dt>
+              <dd class="mt-2 text-base text-gray-900">
+                {{ feature.description }}
+              </dd>
+            </div>
+          </dl>
+        </div>
+      </section>
+      <section class="services-cta w-full bg-gray-900 py-14">
+        <div
+          class="cta-wrap max-w-7xl mx-auto flex flex-col items-center gap-4"
+        >
+          <h2
+            class="text-4xl w-11/12 text-white text-center font-bold md:w-full"
+          >
+            Ready to experience the difference with Secured Moving Company?
+          </h2>
+          <p class="text-lg text-white text-center w-11/12 md:w-9/12 font-bold">
+            Get in touch with us today for a free, no-obligation quote. Let us
+            show you why we are the trusted choice for hassle-free moves.
+          </p>
+          <a
+            href="/contact-us"
+            class="px-8 py-4 text-white text-center mx-auto font-bold w-11/12 md:w-1/4 bg-secureRed-700 rounded-md"
+            >Get A Quote</a
+          >
+        </div>
+      </section>
     </NuxtLayout>
   </div>
 </template>
@@ -84,7 +91,19 @@ const features = [
   {
     name: "Licensed and Insured:",
     description:
+      "Secured Moving Company is fully licensed and insured. This means that your belongings are protected during the entire moving process. You can have confidence knowing that your move is in the hands of a reputable and responsible company.",
+    icon: BoltIcon,
+  },
+  {
+    name: "Transparent Pricing:",
+    description:
       "We believe in transparent pricing, providing accurate and detailed quotes without any hidden fees. Our pricing structure is fair and competitive, reflecting the quality of our services. You can trust that the quote provided is accurate, allowing you to plan your budget effectively.",
+    icon: BoltIcon,
+  },
+  {
+    name: "Care for Valuables and Fragile Items:",
+    description:
+      "We understand the importance of your valuables and fragile items. Our team has the expertise and experience to handle delicate belongings, such as pianos, artwork, or antiques. We take special care to ensure they are properly protected and transported with utmost care.",
     icon: BoltIcon,
   },
 ];
