@@ -23,8 +23,8 @@
           </h2>
         </div>
       </section>
-      <section class="choose-main w-full mx-auto py-11 bg-orange-50">
-        <div class="choose-two-col max-w-7xl mx-auto px-8">
+      <section class="choose-main w-full mx-auto py-20 bg-orange-50">
+        <div class="choose-two-col max-w-6xl mx-auto px-8">
           <dl class="space-y-10 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-8">
             <div v-for="feature in features" :key="feature.name">
               <dt>
