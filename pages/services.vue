@@ -13,7 +13,7 @@
             <span class="text-secureRed-700">that go further</span>
           </h1>
           <h2
-            class="max-w-prose moving-hero_subheading w-[90%] md:w-full text-1xl md:text-3xl text-center font-extralight mx-auto"
+            class="max-w-prose moving-hero_subheading w-11/12 md:w-full text-1xl md:text-3xl text-center font-extralight mx-auto"
           >
             We help people like you simplify your move and safeguard your
             belongings.
@@ -24,17 +24,17 @@
       <section class="moving-main mb-20 mx-auto w-full">
         <!-- Begin 2 col --><!-- Residential moving -->
         <div
-          class="moving-main_two-col max-w-7xl  flex flex-col-reverse md:flex-row mx-auto border"
+          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row w-11/12 mx-auto py-11"
         >
           <div
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6 mx-auto"
           >
             <h2
-              class="md:w-[75%] text-center md:text-left text-2xl font-bold mb-3"
+              class="md:w-3/4 text-center md:text-left text-2xl font-bold mb-3"
             >
               Residential Moving:
             </h2>
-            <p class="md:w-9/12 mb-2">
+            <p class="w-11/12 md:w-9/12 mb-2">
               Moving to a new home? Let Secured Moving Company take care of your
               residential move with ease. Our experienced team will handle
               everything from packing to unpacking, ensuring that your
@@ -43,7 +43,7 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-full">
+            <div class="main-img-wrap w-[80%] max-h-[90%]">
               <nuxt-img
                 src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
                 alt="Fort Worth movers moving furniture"
@@ -56,15 +56,13 @@
         <!-- End 2 col --><!-- Residential moving -->
         <!-- Begin Grid --><!-- com moving -->
         <div
-          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row-reverse mx-auto"
+          class="moving-main_two-col flex flex-col-reverse md:flex-row-reverse md:w-11/12 mx-auto p-6"
         >
           <div
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6"
           >
-            <h2 class="md:w-[75%] text-2xl font-bold mb-3">
-              Commercial Moving:
-            </h2>
-            <p class="md:w-9/12 mb-2">
+            <h2 class="md:w-3/4 text-2xl font-bold mb-3">Commercial Moving:</h2>
+            <p class="w-11/12 md:w-9/12 mb-2">
               Relocating your business? Our commercial moving services are
               designed to minimize downtime and ensure a smooth transition. We
               understand the importance of keeping your business operations
@@ -74,12 +72,12 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-full">
+            <div class="main-img-wrap w-[80%] max-h-[90%]">
               <nuxt-img
-                src="b44e0c599ae79ab34aa841df1040f395packingservices_2_p_500_cbca849880.webp"
-                alt="Fort Worth moving company and packing services"
+                src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
+                alt="Fort Worth movers moving furniture"
+                class="object-contain w-full h-full rounded-lg"
                 provider="cloudinary"
-                class="object-cover w-full rounded-lg"
               />
             </div>
           </div>
@@ -88,17 +86,17 @@
         <!-- Com moving -->
         <!-- Begin 2 col --><!-- Spec moving -->
         <div
-          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row mx-auto"
+          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row w-11/12 mx-auto py-11"
         >
           <div
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6 mx-auto"
           >
             <h2
-              class="md:w-[75%] text-center md:text-left text-2xl font-bold mb-3"
+              class="md:w-3/4 text-center md:text-left text-2xl font-bold mb-3"
             >
               Specialty Moving:
             </h2>
-            <p class="md:w-9/12 mb-2">
+            <p class="w-11/12 md:w-9/12 mb-2">
               Have delicate or valuable items that require special care? Our
               specialty moving services are tailored to handle fragile items,
               such as pianos, artwork, antiques, or sensitive equipment. We have
@@ -108,11 +106,11 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-full">
+            <div class="main-img-wrap w-[80%]">
               <nuxt-img
                 src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
                 alt="Fort Worth movers moving furniture"
-                class="object-cover w-full rounded-lg max-h-[90%]"
+                class="object-contain w-full h-full rounded-lg"
                 provider="cloudinary"
               />
             </div>
@@ -121,15 +119,13 @@
         <!-- End 2 col --><!-- Spec moving -->
         <!-- Begin Grid --><!-- Stor sol -->
         <div
-          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row-reverse mx-auto"
+          class="moving-main_two-col flex flex-col-reverse md:flex-row-reverse md:w-11/12 mx-auto p-6"
         >
           <div
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6"
           >
-            <h2 class="md:w-[75%] text-2xl font-bold mb-3">
-              Storage Solutions:
-            </h2>
-            <p class="md:w-9/12 mb-2">
+            <h2 class="md:w-3/4 text-2xl font-bold mb-3">Storage Solutions:</h2>
+            <p class="w-11/12 md:w-9/12 mb-2">
               Need a secure storage solution? Secured Moving Company offers
               flexible and reliable storage options to meet your needs. Whether
               you require short-term storage during the moving process or
@@ -139,12 +135,12 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-full">
+            <div class="main-img-wrap w-[80%] max-h-[90%]">
               <nuxt-img
-                src="b44e0c599ae79ab34aa841df1040f395packingservices_2_p_500_cbca849880.webp"
-                alt="Fort Worth moving company and packing services"
+                src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
+                alt="Fort Worth movers moving furniture"
+                class="object-contain w-full h-full rounded-lg"
                 provider="cloudinary"
-                class="object-cover w-full rounded-lg"
               />
             </div>
           </div>
@@ -153,15 +149,15 @@
         <!-- Stor sol -->
         <!-- Begin 2 col --><!-- Cust sol -->
         <div
-          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row mx-auto"
+          class="moving-main_two-col max-w-7xl flex flex-col-reverse md:flex-row w-11/12 mx-auto py-11"
         >
           <div
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6 mx-auto"
           >
-            <h2 class="md:w-[75%] text-2xl font-bold mb-3">
+            <h2 class="md:w-3/4 text-2xl font-bold mb-3">
               Customized Solutions:
             </h2>
-            <p class="md:w-9/12 mb-2">
+            <p class="w-11/12 md:w-9/12 mb-2">
               At Secured Moving Company, we understand that every move is
               unique. That's why we offer customized solutions tailored to your
               specific requirements. Whether you need additional packing
@@ -171,11 +167,11 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-full">
+            <div class="main-img-wrap w-[80%] max-h-[90%]">
               <nuxt-img
                 src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
                 alt="Fort Worth movers moving furniture"
-                class="object-cover w-full rounded-lg"
+                class="object-contain w-full h-full rounded-lg"
                 provider="cloudinary"
               />
             </div>
@@ -191,7 +187,7 @@
           <h2 class="text-4xl font-bold text-white text-center mb-4">
             Packing Supplies
           </h2>
-          <p class="text-white text-lg w-[85%]">
+          <p class="text-white text-lg w-9/12">
             In need of packing supplies? We've got you covered. Secured Moving
             Company offers a range of high-quality packing supplies to ensure
             your belongings are protected during the move. From sturdy boxes to
@@ -204,17 +200,17 @@
         <div
           class="cta-wrap max-w-7xl mx-auto flex flex-col items-center gap-4"
         >
-          <h2 class="text-4xl w-[90%] md:w-full text-center font-bold">
+          <h2 class="text-4xl w-11/12 md:w-full text-center font-bold">
             Ready to experience our reliable and efficient moving services?
           </h2>
-          <p class="text-lg w-[90%] md:w-[85%] font-bold">
+          <p class="text-lg w-[90%] md:w-9/12 font-bold">
             Contact us today for a free, no-obligation quote. Our friendly team
             is ready to assist you and provide you with the information you need
             to plan your move successfully.
           </p>
           <a
             href="/contact-us"
-            class="px-8 py-4 text-white text-center mx-auto font-bold w-[90%] md:w-[15%] bg-secureRed-700 rounded-md"
+            class="px-8 py-4 text-white text-center mx-auto font-bold w-11/12 md:w-1/4 bg-secureRed-700 rounded-md"
             >Get A Quote</a
           >
         </div>
