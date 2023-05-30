@@ -124,7 +124,6 @@ import { Dialog, DialogPanel } from "@headlessui/vue";
 import { Bars3Icon, XMarkIcon } from "@heroicons/vue/24/outline/index.js";
 
 const navigation = [
-  { name: "Value Proposition", href: "/service-area/commercial-moving" },
   {
     name: "Services",
     href: "/services",
@@ -133,7 +132,7 @@ const navigation = [
   // { name: "Price Guide", href: "/blog/1" },
   { name: "Moving Tips and Tricks", href: "/moving-tips-and-tricks" },
   // { name: "Get a Quote", href: "/blog/1" },
-  { name: "About Us", href: "/blog/1" },
+  { name: "About Us", href: "/about-us" },
   // { name: "Contact Us", href: "/blog/1" },
 ];
 
