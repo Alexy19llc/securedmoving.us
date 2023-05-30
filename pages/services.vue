@@ -198,12 +198,12 @@
       </section>
       <section class="services-cta w-full py-14">
         <div
-          class="cta-wrap max-w-7xl mx-auto flex flex-col items-center gap-4"
+          class="cta-wrap w-9/12 md:max-w-7xl mx-auto flex flex-col items-center gap-4"
         >
-          <h2 class="text-4xl w-11/12 md:w-full text-center font-bold">
+          <h2 class="text-4xl 11/12 md:w-9/12 text-center font-bold">
             Ready to experience our reliable and efficient moving services?
           </h2>
-          <p class="text-lg w-[90%] md:w-9/12 font-bold">
+          <p class="text-lg w-11/12 md:w-9/12 font-bold">
             Contact us today for a free, no-obligation quote. Our friendly team
             is ready to assist you and provide you with the information you need
             to plan your move successfully.

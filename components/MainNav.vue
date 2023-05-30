@@ -131,7 +131,7 @@ const navigation = [
   },
   { name: "Why Choose Us", href: "/why-choose-us" },
   // { name: "Price Guide", href: "/blog/1" },
-  { name: "Moving Tips and Tricks", href: "/blog/1" },
+  { name: "Moving Tips and Tricks", href: "/moving-tips-and-tricks" },
   // { name: "Get a Quote", href: "/blog/1" },
   { name: "About Us", href: "/blog/1" },
   // { name: "Contact Us", href: "/blog/1" },
