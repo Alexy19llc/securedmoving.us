@@ -44,10 +44,10 @@
     </section>
     <!-- end mission -->
     <!-- begin experience -->
-    <section class="packing-main_section w-full bg-gray-100">
+    <section class="packing-main_section w-full">
       <div
         v-for="wrap in wraps"
-        class="packing-content_wrap w-11/12 md:max-w-7xl mx-auto flex flex-col-reverse md:flex-row items-center rounded-md"
+        class="packing-content_wrap w-11/12 md:max-w-6xl mx-auto flex flex-col-reverse md:flex-row items-center rounded-md"
       >
         <div class="col-left md:w-3/5 p-2 md:p-6">
           <h2 class="font-bold leading-10 text-2xl">{{ wrap.name }}</h2>
@@ -104,6 +104,16 @@ const features = [
     name: "Skilled and Dedicated Team:",
     description:
       "Secured Moving Company takes pride in our team of skilled and dedicated professionals. Our movers are meticulously trained to handle all aspects of the moving process, from packing and loading to transportation and unloading. With their expertise and attention to detail, you can trust that your belongings are in capable hands.",
+  },
+  {
+    name: "Quality Assurance:",
+    description:
+      "We hold ourselves to the highest standards of quality and professionalism. From using reliable moving equipment to employing best practices in packing and handling, we prioritize the safety and security of your belongings. Our commitment to quality assurance ensures that your move is executed flawlessly.",
+  },
+  {
+    name: "Community Involvement:",
+    description:
+      "Secured Moving Company believes in giving back to the community. We actively participate in local initiatives, supporting nonprofit organizations and community events. We are proud to be part of the fabric of [location], and we continuously seek opportunities to make a positive impact.",
   },
 ];
 </script>
