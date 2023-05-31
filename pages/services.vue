@@ -43,11 +43,11 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-10/12 h-9/12">
+            <div class="main-img-wrap w-10/12 h-10/12">
               <nuxt-img
-                src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
+                src="72a9203db734c9ee0ff428d3e870df27croppedimage-p-800_h53aad"
                 alt="Fort Worth movers moving furniture"
-                class="object-contain w-full h-full rounded-lg"
+                class="object-cover w-full h-full rounded-lg"
                 provider="cloudinary"
               />
             </div>
@@ -72,11 +72,11 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-10/12 h-9/12">
+            <div class="main-img-wrap w-10/12 h-10/12">
               <nuxt-img
-                src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
+                src="20230328_131651_wlknac"
                 alt="Fort Worth movers moving furniture"
-                class="object-contain w-full h-full rounded-lg"
+                class="object-cover w-full h-full rounded-lg"
                 provider="cloudinary"
               />
             </div>
