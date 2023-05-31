@@ -49,7 +49,7 @@
         v-for="wrap in wraps"
         class="packing-content_wrap w-11/12 md:max-w-6xl mx-auto flex flex-col-reverse md:flex-row items-center rounded-md"
       >
-        <div class="col-left md:w-3/5 p-2 ">
+        <div class="col-left md:w-3/5 p-2">
           <h2 class="font-bold leading-10 text-2xl">{{ wrap.name }}</h2>
           <p>{{ wrap.description }}</p>
         </div>
@@ -84,19 +84,59 @@
     </section>
     <!-- end grid -->
     <!-- Begin environment -->
-    <section class="our-mission_section  bg-green-800 w-full py-14">
+    <section class="environment_section w-full py-14">
       <div
         class="pack-sup_txt-wrap max-w-7xl mx-auto flex flex-col items-center"
       >
-        <h2 class="text-4xl font-bold text-white text-center mb-4">
-            Environmental <br class="sm:hidden"> Responsibility:
+        <h2 class="text-4xl font-bold text-center mb-4">
+          <span class="text-green-700">Environmental</span>
+          <br class="sm:hidden" />
+          Responsibility:
         </h2>
-        <p class="text-white text-lg w-9/12 md:w-11/12">
-            We are committed to environmentally responsible practices. Secured Moving Company incorporates eco-friendly solutions in our operations, such as using sustainable packing materials and adopting energy-efficient transportation methods. We strive to minimize our ecological footprint and contribute to a greener future.
+        <p class="text-lg w-10/12 md:w-11/12">
+          We are committed to environmentally responsible practices. Secured
+          Moving Company incorporates eco-friendly solutions in our operations,
+          such as using sustainable packing materials and adopting
+          energy-efficient transportation methods. We strive to minimize our
+          ecological footprint and contribute to a greener future.
         </p>
       </div>
     </section>
     <!-- End environment -->
+    <!-- begin testamonial/cta 2-row -->
+    <section class="testam-cta_section w-full border md:py-8">
+      <!-- begin 2-row -->
+      <div class="max-w-5xl md:max-w-6xl flex flex-col md:flex-row gap-3 mx-auto">
+        <div class="col-left flex flex-col gap-3 p-8 bg-gray-100 rounded-lg">
+          <p class="text-lg md:w-11/12">
+            Looking for expert advice to make your move even smoother? Check out
+            our blog section for valuable moving tips and tricks that will help
+            you navigate the process with ease.
+          </p>
+
+          <a
+            href="/contact-us"
+            class="text-white text-center font-bold  bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
+            >Moving Tips</a
+          >
+        </div>
+        <div class="col-right flex flex-col gap-3 p-8 bg-gray-100">
+          <p class="text-lg md:w-11/12">
+            Looking for expert advice to make your move even smoother? Check out
+            our blog section for valuable moving tips and tricks that will help
+            you navigate the process with ease.
+          </p>
+
+          <a
+            href="/contact-us"
+            class="text-white text-center font-bold  bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
+            >Moving Tips</a
+          >
+        </div>
+      </div>
+      <!-- begin 2-row -->
+    </section>
+    <!-- end testamonial/cta 2 row -->
   </NuxtLayout>
 </template>
 <script setup>

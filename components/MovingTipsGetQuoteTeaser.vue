@@ -16,7 +16,7 @@
 
         <a
           href="/contact-us"
-          class="px-8 py-4 text-white text-center mx-auto font-bold w-[90%] md:w-1/2 bg-secureRed-700 rounded-md"
+          class="text-white text-center font-bold  bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
           >Moving Tips</a
         >
       </div>
@@ -31,7 +31,7 @@
 
         <a
           href="/contact-us"
-          class="px-8 py-4 text-white text-center mx-auto font-bold w-[90%] md:w-1/2 bg-secureRed-700 rounded-md"
+          class="text-white text-center font-bold  bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
           >Get A Quote</a
         >
       </div>
