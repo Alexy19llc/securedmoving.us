@@ -104,32 +104,42 @@
     </section>
     <!-- End environment -->
     <!-- begin testamonial/cta 2-row -->
-    <section class="testam-cta_section w-full border md:py-8">
+    <section class="testam-cta_section w-full pb-8 md:py-8">
       <!-- begin 2-row -->
-      <div class="max-w-5xl md:max-w-6xl flex flex-col md:flex-row gap-3 mx-auto">
-        <div class="col-left flex flex-col gap-3 p-8 bg-gray-100 rounded-lg">
+      <div
+        class="max-w-5xl md:max-w-6xl flex flex-col md:flex-row gap-3 mx-auto"
+      >
+        <div
+          class="col-left flex flex-col gap-3 mx-3 p-8 bg-gray-100 rounded-lg"
+        >
+          <h2 class="font-bold text-xl">Testimonials:</h2>
           <p class="text-lg md:w-11/12">
-            Looking for expert advice to make your move even smoother? Check out
-            our blog section for valuable moving tips and tricks that will help
-            you navigate the process with ease.
+            Don't just take our word for it. Hear what our satisfied customers
+            have to say about their experiences with Secured Moving Company.
+            Read their testimonials and discover firsthand how we have helped
+            make their moves hassle-free and successful.
           </p>
 
           <a
-            href="/contact-us"
-            class="text-white text-center font-bold  bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
+            href="https://search.google.com/local/writereview?placeid=ChIJKSKvW857ToYRqyhx87Hqzq0"
+            class="text-white text-center font-bold bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
             >Moving Tips</a
           >
         </div>
-        <div class="col-right flex flex-col gap-3 p-8 bg-gray-100">
+        <div
+          class="col-right flex flex-col gap-3 mx-3 p-8 bg-gray-100 rounded-lg"
+        >
+          <h2 class="font-bold text-xl">Contact Us:</h2>
           <p class="text-lg md:w-11/12">
-            Looking for expert advice to make your move even smoother? Check out
-            our blog section for valuable moving tips and tricks that will help
-            you navigate the process with ease.
+            Ready to experience the difference with Secured Moving Company?
+            Contact us today to discuss your moving needs, request a quote, or
+            receive personalized assistance. Our friendly team is here to help
+            you every step of the way.
           </p>
 
           <a
             href="/contact-us"
-            class="text-white text-center font-bold  bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
+            class="text-white text-center font-bold bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
             >Moving Tips</a
           >
         </div>
