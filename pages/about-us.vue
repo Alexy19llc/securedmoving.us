@@ -123,7 +123,7 @@
           <a
             href="https://search.google.com/local/writereview?placeid=ChIJKSKvW857ToYRqyhx87Hqzq0"
             class="text-white text-center font-bold bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
-            >Moving Tips</a
+            >Testimonials</a
           >
         </div>
         <div
@@ -140,7 +140,7 @@
           <a
             href="/contact-us"
             class="text-white text-center font-bold bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
-            >Moving Tips</a
+            >Get a Quote</a
           >
         </div>
       </div>

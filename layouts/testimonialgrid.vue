@@ -1,16 +1,10 @@
 <template>
-  <div class="bg-white py-18 sm:py-32">
+  <div class="py-16">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="mx-auto max-w-xl text-center">
+      <div class="mx-auto text-center">
         <h2 class="text-4xl font-semibold leading-8 tracking-tight">
           Customer Testimonials
         </h2>
-        <!-- <p class="mt-2 text-3xl tracking-tight text-stone-700 sm:text-4xl">
-          We love hearing from our customers, and this is why we work so hard at
-          providing the best possible service. Here are some of our favorite
-          testimonials from <span class="text-red-600">1000+</span>
-          <span class="font-bold text-stone-900">amazing client reviews</span>
-        </p> -->
       </div>
       <div
         class="mx-auto mt-16 flow-root max-w-2xl sm:mt-20 lg:mx-0 lg:max-w-none"
