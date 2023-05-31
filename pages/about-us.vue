@@ -33,7 +33,7 @@
         <h2 class="text-4xl font-bold text-white text-center mb-4">
           Our Mission:
         </h2>
-        <p class="text-white text-lg w-9/12">
+        <p class="text-white text-lg w-9/12 md:w-11/12">
           At Secured Moving Company, our mission is to redefine the moving
           experience. We strive to exceed customer expectations by delivering
           reliable, efficient, and personalized moving services. Our goal is to
@@ -49,7 +49,7 @@
         v-for="wrap in wraps"
         class="packing-content_wrap w-11/12 md:max-w-6xl mx-auto flex flex-col-reverse md:flex-row items-center rounded-md"
       >
-        <div class="col-left md:w-3/5 p-2 md:p-6">
+        <div class="col-left md:w-3/5 p-2 ">
           <h2 class="font-bold leading-10 text-2xl">{{ wrap.name }}</h2>
           <p>{{ wrap.description }}</p>
         </div>
@@ -66,8 +66,8 @@
     </section>
     <!-- end experience -->
     <!-- begin grid -->
-    <section class="choose-main w-full mx-auto py-20 bg-orange-50">
-      <div class="choose-two-col max-w-6xl mx-auto px-8">
+    <section class="choose-main w-full py-20 bg-orange-50">
+      <div class="choose-two-col md:max-w-6xl mx-auto px-8">
         <dl class="space-y-10 lg:space-y-0 lg:grid lg:grid-cols-2 lg:gap-8">
           <div v-for="feature in features" :key="feature.name">
             <dt>
@@ -83,6 +83,20 @@
       </div>
     </section>
     <!-- end grid -->
+    <!-- Begin environment -->
+    <section class="our-mission_section  bg-green-800 w-full py-14">
+      <div
+        class="pack-sup_txt-wrap max-w-7xl mx-auto flex flex-col items-center"
+      >
+        <h2 class="text-4xl font-bold text-white text-center mb-4">
+            Environmental <br class="sm:hidden"> Responsibility:
+        </h2>
+        <p class="text-white text-lg w-9/12 md:w-11/12">
+            We are committed to environmentally responsible practices. Secured Moving Company incorporates eco-friendly solutions in our operations, such as using sustainable packing materials and adopting energy-efficient transportation methods. We strive to minimize our ecological footprint and contribute to a greener future.
+        </p>
+      </div>
+    </section>
+    <!-- End environment -->
   </NuxtLayout>
 </template>
 <script setup>
