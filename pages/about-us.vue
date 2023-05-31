@@ -93,7 +93,7 @@
           <br class="sm:hidden" />
           Responsibility:
         </h2>
-        <p class="text-lg w-10/12 md:w-11/12">
+        <p class="text-lg w-10/12 md:w-10/12">
           We are committed to environmentally responsible practices. Secured
           Moving Company incorporates eco-friendly solutions in our operations,
           such as using sustainable packing materials and adopting
