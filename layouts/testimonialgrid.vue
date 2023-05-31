@@ -19,7 +19,7 @@
             <div
               v-for="testimonial in list"
               :key="testimonial.title"
-              class="pt-8 sm:inline-block sm:w-full sm:px-4"
+              class="pt-8 sm:inline-block sm:w-full"
             >
               <figure class="rounded-2xl bg-gray-50 p-8 text-sm leading-6">
                 <blockquote class="text-gray-900">

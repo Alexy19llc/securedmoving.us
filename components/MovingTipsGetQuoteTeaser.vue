@@ -2,7 +2,7 @@
   <section class="testam-cta_section w-full pb-8 md:py-8">
     <!-- begin 2-row -->
     <div class="max-w-5xl md:max-w-7xl flex flex-col md:flex-row gap-3 mx-auto">
-      <div class="col-left flex flex-col gap-3 mx-3 p-8 bg-gray-100 rounded-lg">
+      <div class="col-left flex flex-col gap-3 mx-6 sm:mx-3 p-8 bg-gray-100 rounded-lg">
         <h2 class="font-bold text-xl">Get a Quote</h2>
         <p class="text-lg md:w-11/12">
           Ready to experience a hassle-free move? Get in touch with us today for
@@ -17,7 +17,7 @@
         >
       </div>
       <div
-        class="col-right flex flex-col gap-3 mx-3 p-8 bg-gray-100 rounded-lg"
+        class="col-right flex flex-col gap-3 mx-6 p-8 bg-gray-100 rounded-lg"
       >
         <h2 class="font-bold text-xl">Moving Tips and Tricks</h2>
         <p class="text-lg md:w-11/12">
