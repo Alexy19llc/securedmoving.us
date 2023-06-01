@@ -7,13 +7,13 @@
           class="moving-hero_heading-wrap max-w-7xl text-center py-5 pt-20 md:pt-40 md:py-20 mx-auto"
         >
           <h1
-            class="moving-hero_heading faq-heading-txt w-9/12 text-4xl md:text-6xl text-center font-bold mt-5 mx-auto pb-3"
+            class="moving-hero_heading faq-heading-txt w-8/12 text-4xl md:text-6xl text-center font-bold mt-5 mx-auto pb-3"
           >
             Moving services <br />
             <span class="text-secureRed-700">that go further</span>
           </h1>
           <h2
-            class="max-w-prose moving-hero_subheading w-11/12 md:w-full text-1xl md:text-3xl text-center font-extralight mx-auto"
+            class="max-w-prose moving-hero_subheading w-10/12 md:w-11/12 text-1xl md:text-3xl text-center font-extralight mx-auto"
           >
             We help people like you simplify your move and safeguard your
             belongings.
