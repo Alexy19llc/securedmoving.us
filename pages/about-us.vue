@@ -121,7 +121,7 @@
           </p>
 
           <a
-            href="https://search.google.com/local/writereview?placeid=ChIJKSKvW857ToYRqyhx87Hqzq0"
+            href="https://www.google.com/search?q=secured+moving+company+llc+fort+worth%2C+4500+mercantile+plaza+suite+300%2C+fort+worth%2C+tx+76137&oq=secured+moving+company&aqs=chrome.0.69i59j46i175i199i512j0i512l2j0i390i650j69i60l2j69i61.9761j0j4&sourceid=chrome&ie=UTF-8#"
             class="text-white text-center font-bold bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
             >Testimonials</a
           >
