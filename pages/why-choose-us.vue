@@ -41,10 +41,10 @@
       </section>
       <section class="services-cta w-full bg-gray-900 py-14">
         <div
-          class="cta-wrap max-w-7xl mx-auto flex flex-col items-center gap-4"
+          class="cta-wrap max-w-7xl mx-auto flex flex-col items-center gap-4 px-2"
         >
           <h2
-            class="text-4xl w-11/12 text-white text-center font-bold md:w-full"
+            class="text-4xl w-10/12 text-white text-center font-bold md:w-full"
           >
             Ready to experience the difference with Secured Moving Company?
           </h2>

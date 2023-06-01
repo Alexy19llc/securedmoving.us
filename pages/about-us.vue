@@ -49,7 +49,7 @@
         v-for="wrap in wraps"
         class="packing-content_wrap w-11/12 md:max-w-6xl mx-auto flex flex-col-reverse md:flex-row items-center rounded-md"
       >
-        <div class="col-left md:w-3/5 p-2">
+        <div class="col-left md:w-3/5 md:p-4">
           <h2 class="font-bold leading-10 text-2xl">{{ wrap.name }}</h2>
           <p>{{ wrap.description }}</p>
         </div>
