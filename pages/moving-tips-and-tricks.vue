@@ -50,9 +50,9 @@
       <!-- Begin CTA -->
       <section class="services-cta w-full bg-orange-50 py-14">
         <div
-          class="cta-wrap w-9/12 md:max-w-7xl mx-auto flex flex-col items-center gap-4"
+          class="cta-wrap w-11/12 md:max-w-7xl mx-auto flex flex-col items-center gap-4"
         >
-          <h2 class="text-4xl 11/12 md:w-9/12 text-center font-bold">
+          <h2 class="text-4xl 11/12 md:w-10/12 text-center font-bold">
             Ready to dive into our comprehensive Moving Tips and Tricks guide?
           </h2>
           <p class="text-lg w-11/12 md:w-9/12 font-bold">

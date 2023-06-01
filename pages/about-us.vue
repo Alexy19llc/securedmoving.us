@@ -49,7 +49,7 @@
         v-for="wrap in wraps"
         class="packing-content_wrap w-11/12 md:max-w-6xl mx-auto flex flex-col-reverse md:flex-row items-center rounded-md"
       >
-        <div class="col-left md:w-3/5 p-2">
+        <div class="col-left md:w-3/5 md:p-4">
           <h2 class="font-bold leading-10 text-2xl">{{ wrap.name }}</h2>
           <p>{{ wrap.description }}</p>
         </div>
@@ -121,7 +121,7 @@
           </p>
 
           <a
-            href="https://search.google.com/local/writereview?placeid=ChIJKSKvW857ToYRqyhx87Hqzq0"
+            href="https://www.google.com/search?q=secured+moving+company+llc+fort+worth%2C+4500+mercantile+plaza+suite+300%2C+fort+worth%2C+tx+76137&oq=secured+moving+company&aqs=chrome.0.69i59j46i175i199i512j0i512l2j0i390i650j69i60l2j69i61.9761j0j4&sourceid=chrome&ie=UTF-8#"
             class="text-white text-center font-bold bg-secureRed-700 md:w-2/5 px-4 py-3 rounded-md"
             >Testimonials</a
           >

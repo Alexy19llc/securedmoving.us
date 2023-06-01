@@ -17,7 +17,7 @@
         <main
           class="pt-28 mx-auto max-w-7xl px-4 sm:pt-32 sm:px-6 md:pt-40 lg:pt-40 lg:px-8 xl:pt-40"
         >
-          <div class="sm:text-center lg:text-left">
+          <div class="text-center lg:text-left">
             <h1 class="text-4xl tracking-tight font-bold text-secureRed-950 sm:text-5xl sm:tracking-tight md:text-6xl md:tracking-tight">
               <span class="block xl:inline">Welcome to </span>
               <span class="block text-secureRed-700 xl:inline">Secured Moving Company</span>
