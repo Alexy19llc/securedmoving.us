@@ -34,7 +34,7 @@
             >
               Residential Moving:
             </h2>
-            <p class="w-11/12 md:w-9/12 mb-2">
+            <p class="w-11/12 md:w-9/12 ">
               Moving to a new home? Let Secured Moving Company take care of your
               residential move with ease. Our experienced team will handle
               everything from packing to unpacking, ensuring that your
@@ -42,12 +42,12 @@
               your transition to a new home hassle-free.
             </p>
           </div>
-          <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-10/12 h-9/12">
+          <div class="col-right md:w-3/6 flex justify-center items-center border">
+            <div class="main-img-wrap w-4/5 h-4/5 border">
               <nuxt-img
                 src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
                 alt="Fort Worth movers moving furniture"
-                class="object-contain w-full h-full rounded-lg"
+                class="object-cover w-full h-full rounded-lg"
                 provider="cloudinary"
               />
             </div>
@@ -62,7 +62,7 @@
             class="col-left flex flex-col justify-center items-center md:w-3/6 p-6"
           >
             <h2 class="md:w-3/4 text-2xl font-bold mb-3">Commercial Moving:</h2>
-            <p class="w-11/12 md:w-9/12 mb-2">
+            <p class="w-11/12 md:w-9/12">
               Relocating your business? Our commercial moving services are
               designed to minimize downtime and ensure a smooth transition. We
               understand the importance of keeping your business operations
@@ -71,12 +71,12 @@
               commercial move with precision and professionalism.
             </p>
           </div>
-          <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-10/12 h-9/12">
+          <div class="col-right md:w-3/6 flex justify-center items-center border">
+            <div class="main-img-wrap w-4/5 h-4/5 border">
               <nuxt-img
-                src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
+                src="20230328_131651_wlknac"
                 alt="Fort Worth movers moving furniture"
-                class="object-contain w-full h-full rounded-lg"
+                class="object-cover w-full h-full rounded-lg"
                 provider="cloudinary"
               />
             </div>
@@ -106,11 +106,11 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-10/12 h-9/12">
+            <div class="main-img-wrap w-4/5 h-4/5 border">
               <nuxt-img
                 src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
                 alt="Fort Worth movers moving furniture"
-                class="object-contain w-full h-full rounded-lg"
+                class="object-cover w-full h-full rounded-lg"
                 provider="cloudinary"
               />
             </div>
@@ -135,11 +135,11 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-10/12 h-9/12">
+            <div class="main-img-wrap w-4/5 h-4/5 border">
               <nuxt-img
                 src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
                 alt="Fort Worth movers moving furniture"
-                class="object-contain w-full h-full rounded-lg"
+                class="object-cover w-full h-full rounded-lg"
                 provider="cloudinary"
               />
             </div>
@@ -167,11 +167,11 @@
             </p>
           </div>
           <div class="col-right md:w-3/6 flex justify-center items-center">
-            <div class="main-img-wrap w-10/12 h-9/12">
+            <div class="main-img-wrap w-4/5 h-4/5 border">
               <nuxt-img
                 src="72a9203db734c9ee0ff428d3e870df27croppedimage_p_800_3c32ceccba.webp"
                 alt="Fort Worth movers moving furniture"
-                class="object-contain w-full h-full rounded-lg"
+                class="object-cover w-full h-full rounded-lg"
                 provider="cloudinary"
               />
             </div>
